@@ -1,7 +1,7 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Challenge 19",
   "main": "server.js",
   "scripts": {
     "start:dev": "",
