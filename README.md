@@ -16,7 +16,7 @@ This is a basic text editing tool that can be accessed without an internet conne
 
 ## Installation
 
-This application uses Node.js and various npm packages. You'll need to install Node.js and then run ```npm i``` in the terminal at the root of the directory to install all dependencies
+This application uses Node.js and various npm packages. You'll need to install Node.js and then run ```npm i``` in the terminal at the root of the directory to install all dependencies.
 
 ## Usage
 
