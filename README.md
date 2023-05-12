@@ -25,7 +25,7 @@ After installing all the required dependencies you may run ```np run start``` in
 ## Screenshot:
 ![Screenshot of Application](./assets/images/Screenshot.png)
 
-Working Heroku Deploymeny
+Working Heroku Deployment
 
 ![Screenshot of Application](./assets/images/Heroku.png)
 
