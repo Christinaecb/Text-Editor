@@ -25,6 +25,10 @@ After installing all the required dependencies you may run ```np run start``` in
 ## Screenshot:
 ![Screenshot of Application](./assets/images/Screenshot.png)
 
+Working Heroku Deploymeny
+
+![Screenshot of Application](./assets/images/Heroku.png)
+
 ## License
 This project is licensed under the MIT license. Click [here](https://opensource.org/licenses/MIT) for more information.<br>
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
